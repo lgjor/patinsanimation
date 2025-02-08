@@ -7,7 +7,7 @@
 :root {
     --snitap-sun: #FFCD1E;
     --snitap-sky-mid: #06B6D4;
-    --snitap-sky-light: #DB2777;
+    --snitap-sky-light: #678EF9;
     --snitap-joy-light: #F472B6;
     --snitap-joy-mid: #DB2777;
     --snitap-leaf-mid: #16A34A;
@@ -22,9 +22,9 @@
     --text-xg: 4rem;
 }
 
-/*html {
+html {
     zoom: .5;
-}*/
+} 
 
 html, button {
     font: 500 1rem/1.5 "Montserrat", sans-serif;
