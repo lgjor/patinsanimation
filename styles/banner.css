@@ -38,7 +38,7 @@
 }
 
 @keyframes rolling {
-    to{
+    to {
         transform: translateX(-132px);
     }
 }
