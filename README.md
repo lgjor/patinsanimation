@@ -18,7 +18,7 @@ Projeto desenvolvido a partir do curso Fullstack da <a href="https://www.rockets
 <br>
 
 <p align="center">
-  <a href="https://github.com/lgjor/patinsanimation" target="_blank">
+  <a href="https://lgjor.github.io/patinsanimation" target="_blank">
     <img src=".github/preview.jpg" width="100%" alt="Landing page animada">
   </a>
 </p>
